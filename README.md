@@ -1,6 +1,6 @@
 <h1>:leaves::fire::sweat_drops: Jokenpokémon :leaves::fire::sweat_drops:</h1>
 <br>
-<img src="" alt="mockup-jokenpokemon">
+<img src="https://github.com/eduardobetti/jokenpokemon/blob/main/mockup-jokenpokemon.png" alt="mockup-jokenpokemon">
 <br><br>
 <p>Jogo de jokenpô, com temática da franquia Pokémon, substituindo as habituais seleções de "pedra, papel e tesoura" por pokémons dos tipos "grama, fogo e água".</p>
 <p>Para jogar, basta clicar em um dos pokémons e o resultado será apresentado na tela.</p>
